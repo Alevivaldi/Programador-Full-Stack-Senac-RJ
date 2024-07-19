@@ -1,6 +1,6 @@
 
 
-# Projeto VPC
+# Projeto VPC E-commecer de Roupas Esportivas.
 
 | Titulo        | Descrição                                                | Justificativa |
 |---------------|----------------------------------------------------------|---------------|
