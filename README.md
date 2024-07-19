@@ -3,7 +3,7 @@
 # VPC
 
 Projeto integrador
-Link:[](https://)
+Link:[]([https://](https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ))
 
 [![image](https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ)
 
@@ -22,8 +22,6 @@ Missão: “Criar moda sustentável que inspire e empodere as pessoas a fazer es
 Visão: “Ser a marca líder em moda sustentável, reconhecida globalmente por nossa inovação, qualidade e compromisso com a responsabilidade ambiental e social.”
 
 Valores:
-
-Sustentabilidade: Comprometemo-nos a práticas que minimizem nosso impacto ambiental e promovam a conservação dos recursos naturais.
 Ética: Operamos com integridade e transparência, garantindo condições de trabalho justas e seguras em toda a nossa cadeia de suprimentos.
 Inovação: Buscamos constantemente novas formas de integrar sustentabilidade e estilo em nossos produtos.
 Qualidade: Priorizamos a durabilidade e a excelência em todos os aspectos de nossos produtos e serviços.
