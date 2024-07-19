@@ -37,11 +37,11 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 | Data         | Atividades                                                | Pasta |
 |--------------|-----------------------------------------------------------|-------|
 | 01/07/2024   | Formação das Equipes;                                     | 📁   |
-| 19/72/2024   | Sprint I - PI + temática + formação dos grupos + layout   | 📁   |
+| 19/72/2024   | Sprint I - PI + temática +Briefing + UML   | 📁   |
 
 | Nome       | Link                                              |
 |------------|----------------------------------------------------|
-| Alex       | [📁](https://github.com/...)        |
+| Alex       | [📁](https://github.com/Alevivaldi)        |
 | Roberto Lourenço       | [📁](https://github.com/...)        |
 | Pedro Azara      | [📁](https://github.com/...)        |
 | Marcus | [📁](https://github.com/...)        |
