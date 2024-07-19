@@ -134,9 +134,9 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 
 ## 📌 Versão
 
-Nós usamos XXXX para controle de versão. Para as versões disponíveis, XXXXXX
+Nós usamos a versão 2.45.2 para controle de versionamento de codigo.
 
-## ✒️ Autores
+## ✒️ Autores do Projeto
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
