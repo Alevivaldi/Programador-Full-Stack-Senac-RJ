@@ -48,7 +48,16 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 | Leonardo      | [📁](https://github.com/...)        |
 
 
-BackLog
+<h1>BackLog</h1>
+
+| Catálogo de mercadorias  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|3|
+|Testes unitários  e de integração|1|8|
+|Configurar Back End|2|8|
+|desenvolver UI (pegar material de imagem com cliente)|2|5|
+
+
 | Funcionalidades De Login | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
 |Documentação de login.  |   1                | 8          |
@@ -62,7 +71,7 @@ BackLog
 |------------------------|--------------------|------------|
 |Documentação do formulário|1|3|
 |Funcionalidade extra: chatbot|1|3|
-|Realizar testes unitário|2|5|
+|Testes unitários  e de integração|2|5|
 |Configurar o BackEnd|2|5|
 |Criar interface de usuário|2|5|
 
@@ -73,11 +82,6 @@ BackLog
 |Validação de cadastro|1|8|
 |Configurar Back End|2|8|
 |desenvolver UI|2|5|
-
-
-
-
-
 
 
 
