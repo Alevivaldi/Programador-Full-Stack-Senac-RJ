@@ -57,10 +57,21 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 |Configurar Back End|2|8|
 |desenvolver UI (pegar material de imagem com cliente)|2|5|
 
+| Sistema Administrativo  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|3|
+|Teste unitário de integração|1|5|
+|Configurar Back End|2|8|
+|desenvolver UI|2|5|
+|Extra:gerenciamento da Interface dos produtos.|2|3|
+|conexão ao Banco de Dados|2|8|
+|Gerenciamento de Produtos|2|8|
+|Desenvolver UI|2|5|
+
 
 | Funcionalidades De Login | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
-|Documentação de login.  |   1                | 8          |
+|Documentação|   1                |3          |
 |Testes unitários  e de integração  |   2     | 3          |
 |Implementar validação das credenciais. |  2  |8           |  
 |recuperação de dados(login e senha)|1|5|
@@ -77,12 +88,19 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 
 | Cadastro de Usuário  | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
-|Documentação|1|4|
+|Documentação|1|3|
 |Teste unitário de integração|1|5|
 |Validação de cadastro|1|8|
 |Configurar Back End|2|8|
-|desenvolver UI|2|5|
+|Desenvolver UI|2|5|
 
+| Carrinho de compras  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|3|
+|Teste unitário de integração|1|5|
+|Vincular com Sistema de pagamento|3|13|
+|Configurar Back End|2|8|
+|Desenvolver UI|2|5|
 
 
 
