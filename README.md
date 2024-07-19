@@ -9,7 +9,8 @@ Historia do Usuário[Briefing](https://docs.google.com/document/d/1bVkOBA8HdP-rl
 
 <a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="blank">Desenvovimento Kaban [Trello]</a>
 
-<a href="https://www.exemplo.com" target="_blank" rel="noopener noreferrer" >Texto do Link</a>
+<a href="https://www.exemplo.com" target="_blank" rel="noopener noreferrer">Texto do Link</a>
+
 
 
 ## 🚀 Começando
