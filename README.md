@@ -59,7 +59,7 @@ Nós usamos XXXX para controle de versão. Para as versões disponíveis, XXXXXX
 
 ## ✒️ Autores
 | Alex       | [GitHub](https://github.com/Alevivaldi)        |  [Linkedln](https://www.linkedin.com/in/alex-costa-8a1a93217/)
-| Alex       | [GitHub](https://github.com/pedroxavier2244)        |  [Linkedln](https://www.linkedin.com/in/pedro-azara-9b0a60271)
+| Pedro Azara       | [GitHub](https://github.com/pedroxavier2244)        |  [Linkedln](https://www.linkedin.com/in/pedro-azara-9b0a60271)
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
