@@ -1,8 +1,9 @@
 
 
 # VPC
-<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit"><img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" width="100px" alt="Apresetação Canva"></a>
-<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack"><img src="https://as2.ftcdn.net/v2/jpg/05/50/01/23/1000_F_550012360_8b7PlJS3T3we9UzxQLhHJnGikdpcpOVR.jpg" width="100px" alt="Desenvovimento Kaban [Trello]"></a>
+
+<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit"><img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" width="100px" alt="Apresetação Canva"><label>canva</label></a>
+<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack"><img src="https://as2.ftcdn.net/v2/jpg/05/50/01/23/1000_F_550012360_8b7PlJS3T3we9UzxQLhHJnGikdpcpOVR.jpg" width="100px" alt="Desenvovimento Kaban [Trello]"><label>trello</label></a>
 
 Projeto integrador
 Senac-RJ https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
