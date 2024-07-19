@@ -70,4 +70,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
   
 <br>
 
-## 👨🏻‍🏫 Tutores Elias Santos, Vanessa, Clayton.
+## 👨🏻‍🏫 Tutores Elias ,Dalva, Vanessa, Clayton.
