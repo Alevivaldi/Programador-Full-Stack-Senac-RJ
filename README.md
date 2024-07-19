@@ -137,7 +137,7 @@ Nós utilizamos a versão 2.45.2 para controle de versionamento de código.
 
 ## ✒️ Autores do Projeto
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Aqueles que ajudaram a levantar o projeto desde o seu início
 
 
 | Alex       | [GitHub](https://github.com/Alevivaldi)        |  [Linkedln](https://www.linkedin.com/in/alex-costa-8a1a93217/)
