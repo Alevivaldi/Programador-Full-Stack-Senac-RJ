@@ -117,6 +117,10 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 |avançar e voltar paginas|1|3|
 
 
+<a href="https://www.mindmeister.com/app/map/3351999169?t=PsRKkBxbwq"> Mapa Mental</a>
+
+<a href="https://www.mindmeister.com/app/map/3351999169?t=PsRKkBxbwq&m=outline">Esboço do Site</a>
+
 ## 🛠️ Construído com
 
 ![Skills](https://skillicons.dev/icons?i=vscode,figma,html,css,js)
