@@ -48,7 +48,12 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 | Leonardo      | [📁](https://github.com/...)        |
 
 
-
+BackLog
+| FuncionalidadesDeLogin | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação de login.  |   1                | 8          |
+|testes unitários  e de integração     |   2                | 3          |
+|implementar validação das credenciais. |  2                 |8
 
 
 ## 🛠️ Construído com
