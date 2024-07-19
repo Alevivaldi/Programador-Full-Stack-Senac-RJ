@@ -36,9 +36,11 @@ O cliente tem como objetivo expandir o seu publico para o mercado nacional.
 <br><strong>Melhorar a Experiência do Cliente</strong>: Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.
 <h4>--Justificativa--</h4>
 O cliente tinha dificuldade em monitorar e compreender a experiencia que seus cliente tinham com seus produtos.
+
 <br><strong>Aumentar o Tráfego do Site</strong>: Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online.
 <h4>--Justificativa--</h4>
 O cliente pretende utilizar tecnicas de publicidade pra enganjar sua empresa em territorio nacional.
+
 <br><strong>Fidelização de Clientes</strong>: Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.
 <h4>--Justificativa--</h4>
 o cliente pretende compreender quais os cliente sempre compra com ele e atravez disto reduzir custo operacional e obter um feedback positivo, sabendo onde está com problema.
