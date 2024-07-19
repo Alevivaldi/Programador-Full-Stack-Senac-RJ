@@ -5,7 +5,7 @@
 Projeto integrador
 Link:[Senac-RJ]([https://](https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ))
 
-[![image](https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ)
+
 
 
 ## 🚀 Começando
