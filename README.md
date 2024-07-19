@@ -1,6 +1,7 @@
 
 
 # VPC
+<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit">Apresetação Canva</a>
 
 Projeto integrador
 Senac-RJ https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
@@ -123,7 +124,8 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 
 ## 🛠️ Construído com
 
-![Skills](https://skillicons.dev/icons?i=vscode,figma,html,css,js)
+![Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,html,css,angular,js,spring,postman,java,flutter)
+![Banco de Dados](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ## 📌 Versão
 
