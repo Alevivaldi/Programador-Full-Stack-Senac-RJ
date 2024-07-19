@@ -1,16 +1,17 @@
 
 
-# VPC
+# Projeto VPC
 
-<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit" ><img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" width="100px" alt="Apresetação Canva" ></a>Apresentação Canva.
+<h2>🔗 Links Úteis</h2>
 
-<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack"><img src="https://as2.ftcdn.net/v2/jpg/05/50/01/23/1000_F_550012360_8b7PlJS3T3we9UzxQLhHJnGikdpcpOVR.jpg" width="100px" alt="Desenvovimento Kaban [Trello]"></a>Ferramenta de desenvolvimento Ágil TRELLO.
+<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit" ><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="46px" alt="Apresetação Canva" ></a> - Nossa apresentação no Canva.
 
-Projeto integrador
-Senac-RJ https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
+<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack"><img src="https://arteoconseil.fr/wp-content/uploads/2018/02/Trello-logo-.png" width="102px" alt="Desenvovimento Kaban [Trello]"></a> - Nosso Projeto Trello utilizando a Metodologia Versátil Kanban.
 
-Historia do Usuário
-[Briefing](https://docs.google.com/document/d/1bVkOBA8HdP-rlMgmD8RpONQWncEWkEGI/edit)
+Projeto integrador Senac-RJ - https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
+
+Historias de Usuário
+[PDF](https://drive.google.com/file/d/1WJPmCkBsgksTzi1mQSiIQlrb9STfPxqO/view)
 
 
 
@@ -18,32 +19,30 @@ Historia do Usuário
 
 ## 🚀 Começando
 
-Trata-se de Site de Vendas: Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online.
-Reduzir Custos Operacionais: Utilizar o e-commerce para reduzir custos relacionados a lojas físicas, como aluguel e manutenção1.
-Expandir o Alcance do Mercado: Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes1.
-Melhorar a Experiência do Cliente: Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras1.
-Aumentar o Tráfego do Site: Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online1.
-Fidelização de Clientes: Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.
+<h3><strong>Objetivos</strong></h3>
+<strong>Trata-se de um Site de Vendas</strong>: Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online.
+<br><strong>Reduzir Custos Operacionais</strong>: Utilizar o e-commerce para reduzir custos relacionados a lojas físicas, como aluguel e manutenção.
+<br><strong>Expandir o Alcance do Mercado</strong>: Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.
+<br><strong>Melhorar a Experiência do Cliente</strong>: Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.
+<br><strong>Aumentar o Tráfego do Site</strong>: Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online.
+<br><strong>Fidelização de Clientes</strong>: Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.
 
-Missão: “Criar moda sustentável que inspire e empodere as pessoas a fazer escolhas conscientes, promovendo um futuro mais verde e ético.”
-
-Visão: “Ser a marca líder em moda sustentável, reconhecida globalmente por nossa inovação, qualidade e compromisso com a responsabilidade ambiental e social.”
-
-Valores:
-Ética: Operamos com integridade e transparência, garantindo condições de trabalho justas e seguras em toda a nossa cadeia de suprimentos.
-Inovação: Buscamos constantemente novas formas de integrar sustentabilidade e estilo em nossos produtos.
-Qualidade: Priorizamos a durabilidade e a excelência em todos os aspectos de nossos produtos e serviços.
-Comunidade: Valorizamos a colaboração e o apoio às comunidades locais e globais, promovendo um impacto positivo.
-Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam seus valores e contribuam para um mundo melhor.
+<strong><h3>Valores</h3></strong>
+<strong>Ética</strong>: Operamos com integridade e transparência, garantindo condições de trabalho justas e seguras em toda a nossa cadeia de suprimentos.
+<br><strong>Inovação</strong>: Buscamos constantemente novas formas de integrar sustentabilidade e estilo em nossos produtos.
+<br><strong>Qualidade</strong>: Priorizamos a durabilidade e a excelência em todos os aspectos de nossos produtos e serviços.
+<br><strong>Comunidade</strong>: Valorizamos a colaboração e o apoio às comunidades locais e globais, promovendo um impacto positivo.
+<br><strong>Empoderamento</strong>: Inspiramos nossos clientes a fazer escolhas de moda que reflitam seus valores e contribuam para um mundo melhor.
+<br>
 
 
-### 🔧 Implementação
+## 🔧 Implementação
 
 
 | Data         | Atividades                                                | Pasta |
 |--------------|-----------------------------------------------------------|-------|
 | 01/07/2024   | Formação das Equipes;                                     | 📁   |
-| 19/72/2024   | Sprint I - PI + temática +Briefing + UML   | 📁   |
+| 19/07/2024   | Sprint I - PI + temática +Briefing + UML   | 📁   |
 
 | Nome       | Link                                              |
 |------------|----------------------------------------------------|
@@ -54,7 +53,7 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 | Leonardo      | [📁](https://github.com/...)        |
 
 
-<h1>BackLog</h1>
+## 🖂 BackLog
 
 | Catálogo de mercadorias  | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
@@ -134,7 +133,7 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 
 ## 📌 Versão
 
-Nós usamos a versão 2.45.2 para controle de versionamento de codigo.
+Nós utilizamos a versão 2.45.2 para controle de versionamento de código.
 
 ## ✒️ Autores do Projeto
 
@@ -146,14 +145,16 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 | Pedro Azara       | [GitHub](https://github.com/pedroxavier2244)        |  [Linkedln](https://www.linkedin.com/in/pedro-azara-9b0a60271)
 
 | Roberto Lourenço       | [GitHub](https://github.com/wdymexplorer)        |  [Linkedln](https://www.linkedin.com/in/roberto-louren%C3%A7o-9429a7261/)
+<br>
 
-![Skills](https://skillicons.dev/icons?i=linkedin,github)
+## ![Skills](https://skillicons.dev/icons?i=linkedin,github) Redes sociais
 
 - Alex Costa -  https://www.linkedin.com/in/alex-costa-8a1a93217    |   https://github.com/Alevivaldi
 - Pedro Azara -  https://www.linkedin.com/in/pedro-azara-9b0a60271    |   https://github.com/pedroxavier2244
 - Roberto Lourenço -  https://www.linkedin.com/in/roberto-louren%C3%A7o-9429a7261    |   https://github.com/wdymexplorer
 - Marcus -
 - Leonardo - 
+<br>
 <br>
 
 ## 👨🏻‍🏫 Tutores Elias ,Dalva, Vanessa, Clayton.
