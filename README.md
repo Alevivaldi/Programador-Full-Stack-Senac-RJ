@@ -102,9 +102,14 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 |Configurar Back End|2|8|
 |Desenvolver UI|2|5|
 
-
-
-
+| Acessibilidade  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|3|
+|Teste unitário de integração|1|5|
+|Configurar Back End|2|8|
+|Modo Escuro|1|3
+|acessibilidade de libras|2|5|
+|avançar e voltar paginas|1|3|
 
 
 ## 🛠️ Construído com
