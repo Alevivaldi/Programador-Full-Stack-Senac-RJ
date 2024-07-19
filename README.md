@@ -52,19 +52,27 @@ BackLog
 | Funcionalidades De Login | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
 |Documentação de login.  |   1                | 8          |
-|testes unitários  e de integração  |   2     | 3          |
-|implementar validação das credenciais. |  2  |8           |  
+|Testes unitários  e de integração  |   2     | 3          |
+|Implementar validação das credenciais. |  2  |8           |  
 |recuperação de dados(login e senha)|1|5|
 |Configurar autenticação BackEnd|2|5|
 |Criar a Interface de login|1|5
 
-| Formulário de Contato.   | Nivel Complexidade | Prioridade |
+| Formulário de Contato | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
 |Documentação do formulário|1|3|
 |Funcionalidade extra: chatbot|1|3|
 |Realizar testes unitário|2|5|
 |Configurar o BackEnd|2|5|
 |Criar interface de usuário|2|5|
+
+| Cadastro de Usuário  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|4|
+|Teste unitário de integração|1|5|
+|Validação de cadastro|1|8|
+|Configurar Back End|2|8|
+|desenvolver UI|2|5|
 
 
 
