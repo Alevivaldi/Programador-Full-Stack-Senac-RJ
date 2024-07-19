@@ -7,8 +7,9 @@ Senac-RJ https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
 
 Historia do Usuário[Briefing](https://docs.google.com/document/d/1bVkOBA8HdP-rlMgmD8RpONQWncEWkEGI/edit)
 
-<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="_blank">Desenvovimento Kaban [Trello]</a>
+<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="blank">Desenvovimento Kaban [Trello]</a>
 
+<a href="https://www.exemplo.com" target="_blank">Texto do Link</a>
 
 
 ## 🚀 Começando
