@@ -86,6 +86,14 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 |Configurar o BackEnd|2|5|
 |Criar interface de usuário|2|5|
 
+| Carrinho de compras  | Nivel Complexidade | Prioridade |
+|------------------------|--------------------|------------|
+|Documentação|1|3|
+|Teste unitário de integração|1|5|
+|Vincular com Sistema de pagamento|3|13|
+|Configurar Back End|2|8|
+|Desenvolver UI|2|5|
+
 | Cadastro de Usuário  | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
 |Documentação|1|3|
@@ -94,13 +102,7 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 |Configurar Back End|2|8|
 |Desenvolver UI|2|5|
 
-| Carrinho de compras  | Nivel Complexidade | Prioridade |
-|------------------------|--------------------|------------|
-|Documentação|1|3|
-|Teste unitário de integração|1|5|
-|Vincular com Sistema de pagamento|3|13|
-|Configurar Back End|2|8|
-|Desenvolver UI|2|5|
+
 
 | Acessibilidade  | Nivel Complexidade | Prioridade |
 |------------------------|--------------------|------------|
