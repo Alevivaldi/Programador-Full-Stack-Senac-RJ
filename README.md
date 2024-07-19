@@ -60,6 +60,7 @@ Nós usamos XXXX para controle de versão. Para as versões disponíveis, XXXXXX
 ## ✒️ Autores
 | Alex       | [GitHub](https://github.com/Alevivaldi)        |  [Linkedln](https://www.linkedin.com/in/alex-costa-8a1a93217/)
 | Pedro Azara       | [GitHub](https://github.com/pedroxavier2244)        |  [Linkedln](https://www.linkedin.com/in/pedro-azara-9b0a60271)
+| Roberto Lourenço       | [GitHub](https://github.com/wdymexplorer)        |  [Linkedln](https://www.linkedin.com/in/roberto-louren%C3%A7o-9429a7261/)
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
@@ -67,6 +68,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 - Alex Costa -  https://www.linkedin.com/in/alex-costa-8a1a93217    |   https://github.com/Alevivaldi
 - Pedro Azara -  https://www.linkedin.com/in/pedro-azara-9b0a60271    |   https://github.com/pedroxavier2244
+- Roberto Lourenço -  https://www.linkedin.com/in/roberto-louren%C3%A7o-9429a7261    |   https://github.com/wdymexplorer
   
 <br>
 
