@@ -4,7 +4,7 @@
 
 <h2>🔗 Links Úteis</h2>
 
-<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit" ><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="46px" alt="Apresetação Canva" ></a> - Nossa apresentação no Canva.
+<a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit" target="_blank" ><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="46px" alt="Apresetação Canva" ></a> - Nossa apresentação no Canva.
 
 <a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack"><img src="https://arteoconseil.fr/wp-content/uploads/2018/02/Trello-logo-.png" width="102px" alt="Desenvovimento Kaban [Trello]"></a> - Nosso Projeto Trello utilizando a Metodologia Versátil Kanban.
 
