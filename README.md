@@ -2,6 +2,15 @@
 
 # Projeto VPC
 
+| Titulo        | Descrição                                                | Justificativa |
+|---------------|----------------------------------------------------------|---------------|
+|Trata-se de um Site de Vendas|Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online|O cliente precisava de um projeto para reduzir os custos operacionais.|
+|Reduzir Custos Operacionais|Utilizar o e-commerce para reduzir custos relacionados a lojas físicas, como aluguel e manutenção.|O cliente precisava de um projeto para reduzir os custos operacionais.|
+|Expandir o Alcance do Mercado|Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.|Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.|
+|Melhorar a Experiência do Cliente|Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.|Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.|
+|Aumentar o Tráfego do Site| Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online.|O cliente pretende utilizar tecnicas de publicidade pra enganjar sua empresa em territorio nacional.|
+|Fidelização de Clientes|Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.|o cliente pretende compreender quais os cliente sempre compra com ele e atravez disto reduzir custo operacional e obter um feedback positivo, sabendo onde está com problema.|
+
 <h2>🔗 Links Úteis</h2>
 
 <a href="https://www.canva.com/design/DAGLWNaRmCQ/rdQX-GN2gdl5-E1cArh4mg/edit"><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="46px" alt="Apresetação Canva" ></a> - Nossa apresentação no Canva.
@@ -22,14 +31,7 @@ Historias de Usuário
 
 <h3><strong>Objetivos</strong></h3>
 
-| Titulo        | Descrição                                                | Justificativa |
-|---------------|----------------------------------------------------------|---------------|
-|Trata-se de um Site de Vendas|Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online|O cliente precisava de um projeto para reduzir os custos operacionais.|
-|Reduzir Custos Operacionais|Utilizar o e-commerce para reduzir custos relacionados a lojas físicas, como aluguel e manutenção.|O cliente precisava de um projeto para reduzir os custos operacionais.|
-|Expandir o Alcance do Mercado|Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.|Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.|
-|Melhorar a Experiência do Cliente|Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.|Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.|
-|Aumentar o Tráfego do Site| Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online.|O cliente pretende utilizar tecnicas de publicidade pra enganjar sua empresa em territorio nacional.|
-|Fidelização de Clientes|Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.|o cliente pretende compreender quais os cliente sempre compra com ele e atravez disto reduzir custo operacional e obter um feedback positivo, sabendo onde está com problema.|
+
 
 
 
