@@ -8,8 +8,8 @@ Senac-RJ https://github.com/Alevivaldi/Programador-Full-Stack-Senac-RJ
 
 Historia do Usuário[Briefing](https://docs.google.com/document/d/1bVkOBA8HdP-rlMgmD8RpONQWncEWkEGI/edit)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Ftrello_1313706&psig=AOvVaw1TobgSJ0LSWJ3PJJ5T5tn2&ust=1721444195076000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj_6MCNsocDFQAAAAAdAAAAABAE"></img>
-<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="blank">Desenvovimento Kaban [Trello]</a>
+
+<a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="blank"><img src="https://as2.ftcdn.net/v2/jpg/05/50/01/23/1000_F_550012360_8b7PlJS3T3we9UzxQLhHJnGikdpcpOVR.jpg" width="100px" alt="Desenvovimento Kaban [Trello]"></a>
 
 
 ## 🚀 Começando
