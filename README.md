@@ -10,9 +10,6 @@ Historia do Usuário[Briefing](https://docs.google.com/document/d/1bVkOBA8HdP-rl
 <a href="https://trello.com/invite/b/667f4a7e7ff0eb361a923d14/ATTI4c997b2d3289a39dce5e866ad446423cD4318BD6/senac-rj-20241-programador-fullstack" target="blank">Desenvovimento Kaban [Trello]</a>
 
 
-
-
-
 ## 🚀 Começando
 
 Trata-se de Site de Vendas: Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online.
@@ -34,7 +31,7 @@ Comunidade: Valorizamos a colaboração e o apoio às comunidades locais e globa
 Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam seus valores e contribuam para um mundo melhor.
 
 
-### 🔧 Implantação
+### 🔧 Implementação
 
 
 | Data         | Atividades                                                | Pasta |
@@ -78,7 +75,8 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 - Alex Costa -  https://www.linkedin.com/in/alex-costa-8a1a93217    |   https://github.com/Alevivaldi
 - Pedro Azara -  https://www.linkedin.com/in/pedro-azara-9b0a60271    |   https://github.com/pedroxavier2244
 - Roberto Lourenço -  https://www.linkedin.com/in/roberto-louren%C3%A7o-9429a7261    |   https://github.com/wdymexplorer
-  
+- Marcus -
+- Leonardo - 
 <br>
 
 ## 👨🏻‍🏫 Tutores Elias ,Dalva, Vanessa, Clayton.
