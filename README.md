@@ -40,7 +40,7 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 | Nome       | Link                                              |
 |------------|----------------------------------------------------|
 | Alex       | [📁](https://github.com/Alevivaldi)
-| Roberto Lourenço       | [📁](https://github.com/...)        |
+| Roberto Lourenço       | [📁](https://github.com/wdymexplorer)        |
 | Pedro Azara      | [📁](https://github.com/pedroxavier2244)        |
 | Marcus | [📁](https://github.com/...)        |
 | Leonardo      | [📁](https://github.com/...)        |
