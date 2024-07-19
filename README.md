@@ -39,9 +39,9 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 
 | Nome       | Link                                              |
 |------------|----------------------------------------------------|
-| Alex       | [📁](https://github.com/Alevivaldi)        |
+| Alex       | [📁](https://github.com/Alevivaldi)
 | Roberto Lourenço       | [📁](https://github.com/...)        |
-| Pedro Azara      | [📁](https://github.com/...)        |
+| Pedro Azara      | [📁](https://github.com/pedroxavier2244)        |
 | Marcus | [📁](https://github.com/...)        |
 | Leonardo      | [📁](https://github.com/...)        |
 
@@ -58,6 +58,7 @@ Empoderamento: Inspiramos nossos clientes a fazer escolhas de moda que reflitam 
 Nós usamos XXXX para controle de versão. Para as versões disponíveis, XXXXXX
 
 ## ✒️ Autores
+| Alex       | [GitHub](https://github.com/Alevivaldi)        |  [Linkedln](https://www.linkedin.com/in/alex-costa-8a1a93217/)
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
