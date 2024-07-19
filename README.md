@@ -22,11 +22,26 @@ Historias de Usuário
 
 <h3><strong>Objetivos</strong></h3>
 <strong>Trata-se de um Site de Vendas</strong>: Um dos principais objetivos é aumentar as vendas de produtos ou serviços através de uma plataforma online.
+<h4>--Justificativa--</h4>
+O cliente estava com Dificuldades em administrar suas vendas pelas redes sociais.
+
 <br><strong>Reduzir Custos Operacionais</strong>: Utilizar o e-commerce para reduzir custos relacionados a lojas físicas, como aluguel e manutenção.
+<h4>--Justificativa--</h4>
+O cliente precisava de um projeto para reduzir os custos operacionais.
+
 <br><strong>Expandir o Alcance do Mercado</strong>: Alcançar clientes em diferentes regiões geográficas, ampliando a base de clientes.
+<h4>--Justificativa--</h4>
+O cliente tem como objetivo expandir o seu publico para o mercado nacional.
+
 <br><strong>Melhorar a Experiência do Cliente</strong>: Oferecer uma experiência de compra conveniente e personalizada, com fácil navegação e opções de pagamento seguras.
+<h4>--Justificativa--</h4>
+O cliente tinha dificuldade em monitorar e compreender a experiencia que seus cliente tinham com seus produtos.
 <br><strong>Aumentar o Tráfego do Site</strong>: Aumentar o número de visitantes ao site através de estratégias de marketing digital, como SEO e publicidade online.
+<h4>--Justificativa--</h4>
+O cliente pretende utilizar tecnicas de publicidade pra enganjar sua empresa em territorio nacional.
 <br><strong>Fidelização de Clientes</strong>: Criar uma base de clientes leais através de programas de fidelidade e excelente atendimento ao cliente.
+<h4>--Justificativa--</h4>
+o cliente pretende compreender quais os cliente sempre compra com ele e atravez disto reduzir custo operacional e obter um feedback positivo, sabendo onde está com problema.
 
 <strong><h3>Valores</h3></strong>
 <strong>Ética</strong>: Operamos com integridade e transparência, garantindo condições de trabalho justas e seguras em toda a nossa cadeia de suprimentos.
