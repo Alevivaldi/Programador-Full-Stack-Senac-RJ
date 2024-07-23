@@ -138,13 +138,18 @@ Historias de Usuário
 <a href="https://www.mindmeister.com/app/map/3351999169?t=PsRKkBxbwq&m=outline">Esboço do Site</a>
 
 ## 🛠️ Construído com
-
-![Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,html,css,angular,js,spring,postman,java,flutter)
+## Principais Tecnologias
+![Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,html,css,angular,js,postman,flutter)
 ![Banco de Dados](https://skillicons.dev/icons?i=mysql,sqlite)
 
-## 📌 Versão
 
-Nós utilizamos a versão 2.45.2 para controle de versionamento de código.
+
+
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title = "Java" /> Java 21 : Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title = "Spring boot"/> Spring Boot 3 : Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title = "Spring Data JPA"/>  Spring Data JPA: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title = "H2 Database"/> H2 Database: Banco de dados SQL em memória.
+
 
 ## ✒️ Autores do Projeto
 
