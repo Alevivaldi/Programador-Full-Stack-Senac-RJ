@@ -8,16 +8,15 @@ import java.util.List;
 import java.util.Objects;
 
 
-@Entity//@Entity mapeia a entidade User
-@Table(name="tb_user")//Permite  customizar o nome da tabela no banco de dados
+@Entity
+@Table(name="tb_user")
 public class User {
-	@Id/*é usada para marcar uma propriedade de uma entidade como a chave primária.*/
-	@GeneratedValue(strategy =GenerationType.IDENTITY )/*especifica como a chave primária de uma
-	entidade será gerada automaticamente pelo banco de dados*/
+	@Id
+	@GeneratedValue(strategy =GenerationType.IDENTITY )
 	private Integer id;
 	private String nome;
 
-	@Column(unique = true)/*Estou impedindo que o atributo email se repita no banco de dados*/
+	@Column(unique = true)
 	private String email;
 
 	private String telefone;
@@ -25,8 +24,7 @@ public class User {
 	private String senha;
 	//private String[] cargo;
 	
-	@OneToMany(mappedBy="cliente")/*relacionar um para muitos entre a classe cliente e pedido,
-	o nome tem que ser o mesmo do atributo na outra tabela*/
+	@OneToMany(mappedBy="cliente")
 	private List<Pedido> pedidos=new ArrayList<>();
 
 	public User(){}

@@ -6,22 +6,19 @@ import java.time.Instant;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-@Entity/*Mapeia esta Entidade*/
-@Table(name="tb_pagamento")/*Permite customizar o nome da entidade na tabela*/
+@Entity
+@Table(name="tb_pagamento")
 public class Pagamento {
 	
-	@Id/*é usada para marcar uma propriedade de uma entidade como a chave primária.*/
-	@GeneratedValue(strategy = GenerationType.IDENTITY)/*especifica como a chave primária de uma
-	entidade será gerada automaticamente pelo banco de dados*/
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	
-	//@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
+
 	private LocalDateTime momento;
 	
-	@OneToOne/*é usada para estabelecer um relacionamento um para um entre duas entidades
-	em um sistema de persistência de dados*/
-	@MapsId/*é usada para mapear uma propriedade de uma entidade que representa uma chave
-	estrangeira (foreign key) para o atributo de identificação (ID) de outra entidade.*/
+	@OneToOne
+	@MapsId
 	private Pedido pedido;
 
 	public Pagamento(){}

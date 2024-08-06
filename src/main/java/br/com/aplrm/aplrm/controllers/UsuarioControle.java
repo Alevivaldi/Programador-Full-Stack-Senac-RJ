@@ -14,20 +14,20 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.time.LocalDate;
+
 
 @RestController
 @RequestMapping(value="/usuario")
 public class UsuarioControle {
 
     @Autowired
-    /*injetando servico*/
+
     private UserService service;
     private UserRepository repository;
 
 
     @GetMapping
-    /*lista a consulta por pagina*/
+
     public ResponseEntity<Page<UserDTO>> findAll(Pageable pageable) {
         Page<UserDTO> dto = service.findAll(pageable);
         return ResponseEntity.ok(dto);

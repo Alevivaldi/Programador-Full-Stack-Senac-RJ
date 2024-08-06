@@ -11,22 +11,20 @@ import java.util.Set;
 @Table(name="tb_produto")
 public class Produto {
 	
-	@Id/*é usada para marcar uma propriedade de uma entidade como a chave primária.*/
-	@GeneratedValue(strategy = GenerationType.IDENTITY)/*especifica como a chave primária de uma
-	entidade será gerada automaticamente pelo banco de dados*/
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	
 	private String nome;
 
 	private Double preco;
-	@Column(columnDefinition = "TEXT")/*estou definindo que no banco de dados, o tipo
-	de atributo será text, por padrao String fica varcha, estou mudando pra text*/
+	@Column(columnDefinition = "TEXT")
 	private String descricao;
 	private String imgUrl;
 
 
 
-	@ManyToMany/*define um relacionamento muitos para muitos entre duas entidades.*/
+	@ManyToMany
 	@JoinTable(name="tb_produto_categoria",joinColumns = @JoinColumn(name="produto_id"),
 	inverseJoinColumns = @JoinColumn(name = "categoria_id"))
 	private Set<Categoria> categorias=new HashSet<>();

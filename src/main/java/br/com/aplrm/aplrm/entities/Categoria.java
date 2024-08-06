@@ -4,19 +4,16 @@ import jakarta.persistence.*;
 
 import java.util.*;
 
-@Entity/*Mapeia esta Entidade*/
-@Table(name="tb_categoria")/*Permite customizar o nome da entidade na tabela*/
+@Entity
+@Table(name="tb_categoria")
 public class Categoria {
 
-	@Id/*é usada para marcar uma propriedade de uma entidade como a chave primária.*/
-	@GeneratedValue(strategy = GenerationType.IDENTITY)/*especifica como a chave primária de uma
-	entidade será gerada automaticamente pelo banco de dados*/
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	private String nome;
 	
-	@ManyToMany(mappedBy="categorias")/*é usada para definir um relacionamento muitos para muitos
-	entre duas entidades, onde a entidade atual (categoria neste caso) não é a entidade proprietária
-	do relacionamento.*/
+	@ManyToMany(mappedBy="categorias")
 	private Set<Produto> produtos=new HashSet<>();
 
 	public Categoria(){}

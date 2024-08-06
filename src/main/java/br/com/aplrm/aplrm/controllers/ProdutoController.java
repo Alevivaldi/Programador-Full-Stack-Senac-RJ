@@ -21,19 +21,19 @@ public class ProdutoController {
 
 
     @Autowired
-    /*injetando servico*/
+
     private ProdutoService service;
     ProdutoRepository repository;
 
     @GetMapping(value = "/{id}")
-    /*buscar a entidade por id*/
+
     public ResponseEntity<ProdutoDTO> findById(@PathVariable Integer id) {
         ProdutoDTO dto = service.findById(id);
         return ResponseEntity.ok(dto);
     }
 
     @GetMapping
-    /*lista a consulta por pagina*/
+
     public ResponseEntity<Page<ProdutoDTO>> findAll(Pageable pageable) {
         Page<ProdutoDTO> dto = service.findAll(pageable);
         return ResponseEntity.ok(dto);
@@ -65,6 +65,3 @@ public class ProdutoController {
 
     }
 }
-
-/*na url para ordenar pelo preco
-http://localhost:8080/produto?size=12&sort=preco*/
